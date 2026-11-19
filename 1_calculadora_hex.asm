@@ -1,5 +1,8 @@
 ; Programa 1: Calculadora de Aritmetica Hexadecimal (Con Bucle)
 ; Arquitectura: x86 (Modo de 16 bits)
+; Descripcion: Solicita dos numeros hex de 8 bits (00h-FFh) y
+;              un operador (+ o -), ejecuta nativamente en los
+;              registros de la CPU e imprime el resultado
 ; =========================================================
 
 .MODEL SMALL
